@@ -14,11 +14,11 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        I’m a PhD researcher in physical oceanography at the University of Cambridge (Department of Earth Sciences, Darwin College). My work focuses on Southern Ocean and Atlantic water-mass dynamics and overturning, with particular interest in Antarctic Bottom Water (AABW), Circumpolar Deep Water (CDW), and shelf processes in the Bellingshausen Sea near the Antarctic Peninsula.
+        I’m a PhD researcher in Climate Science / Physical Oceangraphy at the University of Cambridge, Department of Earth Sciences. My work focuses on Southern Ocean and Atlantic water-mass dynamics, with particular interest in Antarctic Bottom Water, Circumpolar Deep Water, and shelf processes in the Bellingshausen Sea near the Antarctic Peninsula.
 
-        Methodologically, I combine observations (GO-SHIP, GLODAP, Argo, autonomous gliders), inverse methods (OMP via *pyompa*), and machine learning (ensemble/random forests) to classify water masses and map their variability. I also work with data-assimilating and high-resolution models (ECCO/MITgcm), interpolating temperature–salinity onto neutral density surfaces to study decadal change and uncertainty.
+        Methodologically, I combine observations (GO-SHIP, GLODAP, Argo, autonomous gliders), inverse methods, and machine learning to classify water masses and map their variability. I also work with data-assimilating and high-resolution models (ECCO/MITgcm) to study the processes that enable warm water to access ice shelves.
 
-        I build open, reproducible Python workflows (xarray, dask, scikit-learn, Cartopy) on HPC systems (CSD3) and maintain tooling for large NetCDF/Zarr datasets and glider QC/calibration. Current projects include classifying Atlantic water masses from OMP-derived fractions, assessing CDW’s poleward migration, and evaluating implications for AABW contraction and shelf–ice interactions.
+        I build Python workflows (xarray, dask, scikit-learn, Cartopy) on HPC systems and maintain tooling for large NetCDF/Zarr datasets and glider QC/calibration. Current projects include classifying Atlantic water masses from OMP-derived fractions, assessing CDW’s poleward migration, and evaluating implications for AABW contraction and shelf–ice interactions.
 
         If you’d like to collaborate, please get in touch.
       # Show a call-to-action button under your biography? (optional)
@@ -45,12 +45,10 @@ sections:
         I study large-scale overturning and water-mass pathways from the Atlantic to the Antarctic margin, with emphasis on:
 
         - **Southern Ocean water masses:** AABW formation/change; CDW variability and southern boundary shifts; shelf processes in the Bellingshausen Sea.  
-        - **Classification & mapping:** Training ensemble/random-forest models on OMP-classified fractions to apply water-mass labels to Argo and model fields.  
-        - **Observations + models:** Integrating GO-SHIP/GLODAP/Argo with ECCO and MITgcm; interpolating onto neutral-density surfaces for consistent analysis.  
-        - **Uncertainty:** Propagating ensemble/model variance under the “sum-to-one” constraint for water-mass fractions; diagnosing spatial discontinuities.  
+        - **Classification & mapping:** Training ensemble machine learning models to apply water-mass labels to Argo and model fields, integrating GO-SHIP/GLODAP/Argo with ECCO and MITgcm. Mapping transient tracer distributions with Neural Networks. 
         - **Gliders:** Cross-over calibration/QC and workflow tooling for Slocum/Seaglider missions on the Antarctic shelf.
 
-        I prioritise open, reproducible code and careful uncertainty quantification.
+        
     design:
       columns: '1'
 
@@ -122,7 +120,7 @@ sections:
       title: 'Work with me'
       text: |-
         I’m always happy to discuss collaborations on Southern Ocean water masses, machine-learning classification, and glider workflows.  
-        For code and datasets, see my GitHub, or drop me an email.
+        For code and datasets, drop me an email.
       button:
         text: Contact
         url: mailto:your@email.here
