@@ -86,48 +86,6 @@ sections:
     design:
       view: card
 
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-
-  - block: cta-card
-    content:
-      title: 'Work with me'
-      text: |-
-        I’m always happy to discuss collaborations on Southern Ocean water masses, machine-learning classification, and glider workflows.  
-        For code and datasets, drop me an email.
-      button:
-        text: Contact
-        url: mailto:your@email.here
-    design:
-      card:
-        css_class: 'bg-primary-300'
-        css_style: ''
+  
 ---
 
