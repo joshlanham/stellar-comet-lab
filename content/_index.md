@@ -85,7 +85,5 @@ sections:
           - events
     design:
       view: card
-
-  
 ---
 
