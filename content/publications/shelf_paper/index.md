@@ -8,10 +8,8 @@ authors:
 
 publication_types: ["article-journal"]
 
-# Optional (nice for filtering/searching):
 tags: ["Southern Ocean", "Ice shelves", "Circumpolar Deep Water", "Modelling"]
 
-# Mark as published
 status: "Published"
 
 abstract: >
