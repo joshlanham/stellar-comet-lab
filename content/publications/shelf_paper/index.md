@@ -1,5 +1,5 @@
 ---
-title: "Seasonal regimes of warm Circumpolar Deep Water intrusion toward Antarctic ice shelves"
+title: "Seasonal regimes of warm Circumpolar Deep Water intrusion toward Antarctic ice shelves (CEE, 2025)"
 date: 2025-03-01
 publishDate: 2025-03-01
 
