@@ -169,5 +169,5 @@ awards:
       For top performance in physical geography fieldwork.
 ---
 
-Outside research, he enjoys woodworking, hiking, and cooking.
+
  
