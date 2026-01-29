@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/joshlanham
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/joshlanham/
+    url: https://www.linkedin.com/in/joshua-lanham-788473164/?originalSubdomain=uk
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=joshua-lanham
   - icon: academicons/orcid
