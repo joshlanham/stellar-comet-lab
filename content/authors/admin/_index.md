@@ -37,9 +37,6 @@ profiles:
     url: "mailto:jal238@cam.ac.uk"
     label: "E-mail Me"
 
-  - icon: brands/x
-    url: "https://x.com/joshadaml"
-
   - icon: brands/github
     url: "https://github.com/joshlanham"
 
@@ -50,7 +47,7 @@ profiles:
     url: "https://scholar.google.com/citations?user=C_7jUP0AAAAAJ&hl=en"
 
   - icon: academicons/orcid
-    url: "https://orcid.org/0000-0002-1234-5678"
+    url: "https://orcid.org/0009-0000-0705-2012"
 
 
 interests:
