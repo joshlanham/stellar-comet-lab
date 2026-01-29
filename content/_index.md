@@ -12,29 +12,25 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-    I’m a PhD researcher in Climate Science / Physical Oceangraphy at the University of Cambridge, Department of Earth Sciences. My work focuses on Southern Ocean and Atlantic water-mass dynamics, with particular interest in Antarctic Bottom Water, Circumpolar Deep Water, and shelf processes in the Bellingshausen Sea near the Antarctic Peninsula.
+        I’m a PhD researcher in Climate Science / Physical Oceanography at the University of Cambridge, Department of Earth Sciences. My work focuses on Southern Ocean and Atlantic water-mass dynamics, with particular interest in Antarctic Bottom Water, Circumpolar Deep Water, and shelf processes in the Bellingshausen Sea near the Antarctic Peninsula.
 
-    I combine observations (GO-SHIP, GLODAP, Argo, autonomous gliders), inverse methods, and machine learning to classify water masses and map their variability. I also work with data-assimilating and high-resolution models (ECCO/MITgcm) to study the processes that enable warm water to access ice shelves. Current projects include classifying Atlantic water masses from OMP-derived fractions, assessing poleward migration of CDW, and producing a global mapped transient tracer product.
+        I combine observations (GO-SHIP, GLODAP, Argo, autonomous gliders), inverse methods, and machine learning to classify water masses and map their variability. I also work with data-assimilating and high-resolution models (ECCO/MITgcm) to study the processes that enable warm water to access ice shelves. Current projects include classifying Atlantic water masses from OMP-derived fractions, assessing poleward migration of CDW, and producing a global mapped transient tracer product.
 
-    If you’d like to collaborate, please get in touch.
-      # Show a call-to-action button under your biography? (optional)
+        If you’d like to collaborate, please get in touch.
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: "Download CV"
+        url: "uploads/resume.pdf"
       headings:
-        about: 'About'
-        education: 'Education'
-        interests: 'Research interests'
+        about: "About"
+        education: "Education"
+        interests: "Research interests"
     design:
-      # Apply a gradient background
       css_class: hbx-bg-gradient
-      # Avatar customization
-      avatar: 
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+      avatar:
+        size: medium
+        shape: circle
 
   - block: markdown
     content:
