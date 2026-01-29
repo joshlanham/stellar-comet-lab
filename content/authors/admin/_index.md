@@ -16,6 +16,10 @@ pronouns: he/him
 status:
   icon: 🌊
 
+#cover photo
+cover:
+  image: cover.jpg
+
 # Is this the primary user of the site?
 superuser: true
 
