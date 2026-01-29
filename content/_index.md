@@ -17,9 +17,7 @@ sections:
       text: |-
         I’m a PhD researcher in Climate Science / Physical Oceangraphy at the University of Cambridge, Department of Earth Sciences. My work focuses on Southern Ocean and Atlantic water-mass dynamics, with particular interest in Antarctic Bottom Water, Circumpolar Deep Water, and shelf processes in the Bellingshausen Sea near the Antarctic Peninsula.
 
-        Methodologically, I combine observations (GO-SHIP, GLODAP, Argo, autonomous gliders), inverse methods, and machine learning to classify water masses and map their variability. I also work with data-assimilating and high-resolution models (ECCO/MITgcm) to study the processes that enable warm water to access ice shelves.
-
-        I build Python workflows (xarray, dask, scikit-learn) on HPC systems and maintain tooling for large NetCDF/Zarr datasets and glider QC/calibration. Current projects include classifying Atlantic water masses from OMP-derived fractions, assessing poleward migration of CDW, and producing a global mapped transient tracer product.
+      I combine observations (GO-SHIP, GLODAP, Argo, autonomous gliders), inverse methods, and machine learning to classify water masses and map their variability. I also work with data-assimilating and high-resolution models (ECCO/MITgcm) to study the processes that enable warm water to access ice shelves. Current projects include classifying Atlantic water masses from OMP-derived fractions, assessing poleward migration of CDW, and producing a global mapped transient tracer product.
 
         If you’d like to collaborate, please get in touch.
       # Show a call-to-action button under your biography? (optional)
