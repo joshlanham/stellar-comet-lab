@@ -30,21 +30,28 @@ organizations:
   - name: University of Cambridge — Department of Earth Sciences (Darwin College)
     url: https://www.esc.cam.ac.uk/
 
+
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:jal238@cam.ac.uk'
-    label: E-mail Me
+    url: "mailto:jal238@cam.ac.uk"
+    label: "E-mail Me"
+
   - icon: brands/x
-    url: https://twitter.com/joshadaml
+    url: "https://x.com/joshadaml"
+
   - icon: brands/github
-    url: https://github.com/joshlanham
+    url: "https://github.com/joshlanham"
+
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/joshua-lanham-788473164/?originalSubdomain=uk
+    url: "https://www.linkedin.com/in/joshua-lanham-788473164/"
+
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=joshua-lanham
+    url: "https://scholar.google.com/citations?user=C_7jUP0AAAAAJ&hl=en"
+
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1234-5678
+    url: "https://orcid.org/0000-0002-1234-5678"
+
 
 interests:
   - Southern Ocean and Atlantic overturning circulation
