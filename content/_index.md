@@ -19,7 +19,7 @@ sections:
 
         Methodologically, I combine observations (GO-SHIP, GLODAP, Argo, autonomous gliders), inverse methods, and machine learning to classify water masses and map their variability. I also work with data-assimilating and high-resolution models (ECCO/MITgcm) to study the processes that enable warm water to access ice shelves.
 
-        I build Python workflows (xarray, dask, scikit-learn, Cartopy) on HPC systems and maintain tooling for large NetCDF/Zarr datasets and glider QC/calibration. Current projects include classifying Atlantic water masses from OMP-derived fractions, assessing CDW’s poleward migration, and evaluating implications for AABW contraction and shelf–ice interactions.
+        I build Python workflows (xarray, dask, scikit-learn) on HPC systems and maintain tooling for large NetCDF/Zarr datasets and glider QC/calibration. Current projects include classifying Atlantic water masses from OMP-derived fractions, assessing poleward migration of CDW, and producing a global mapped transient tracer product.
 
         If you’d like to collaborate, please get in touch.
       # Show a call-to-action button under your biography? (optional)
