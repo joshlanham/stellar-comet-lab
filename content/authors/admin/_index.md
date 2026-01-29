@@ -18,7 +18,7 @@ status:
 
 #cover photo
 cover:
-  image: lowres_sohi_2000px.png
+  image: cover.jpg
 
 # Is this the primary user of the site?
 superuser: true
