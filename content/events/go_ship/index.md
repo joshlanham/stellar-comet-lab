@@ -1,7 +1,7 @@
 ---
 title: "Observational evidence for a poleward migration in warm Circumpolar Deep Water towards Antarctica"
 event: "GO-SHIP Meeting"
-location: Online: https://youtu.be/R30wczsW0AA
+location: Online at https://youtu.be/R30wczsW0AA
 
 summary: GO-SHIP Monthly Seminar Series
 
