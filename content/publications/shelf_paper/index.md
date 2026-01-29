@@ -14,6 +14,3 @@ tags: ["Southern Ocean", "Ice shelves", "Circumpolar Deep Water", "Modelling"]
 # Mark as published
 status: "Published"
 ---
-{{< citation >}}
-
-{{< links >}}
